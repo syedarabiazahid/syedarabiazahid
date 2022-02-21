@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @syedarabiazahid
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning React Native
